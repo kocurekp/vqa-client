@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vqa-client/static/css/main.42407aa0.chunk.css",
+    "main.js": "/vqa-client/static/js/main.4680a984.chunk.js",
+    "main.js.map": "/vqa-client/static/js/main.4680a984.chunk.js.map",
+    "runtime-main.js": "/vqa-client/static/js/runtime-main.a4f7b8a2.js",
+    "runtime-main.js.map": "/vqa-client/static/js/runtime-main.a4f7b8a2.js.map",
+    "static/css/2.e5d32510.chunk.css": "/vqa-client/static/css/2.e5d32510.chunk.css",
+    "static/js/2.589a9620.chunk.js": "/vqa-client/static/js/2.589a9620.chunk.js",
+    "static/js/2.589a9620.chunk.js.map": "/vqa-client/static/js/2.589a9620.chunk.js.map",
+    "static/js/3.fb4f904d.chunk.js": "/vqa-client/static/js/3.fb4f904d.chunk.js",
+    "static/js/3.fb4f904d.chunk.js.map": "/vqa-client/static/js/3.fb4f904d.chunk.js.map",
+    "index.html": "/vqa-client/index.html",
+    "static/css/2.e5d32510.chunk.css.map": "/vqa-client/static/css/2.e5d32510.chunk.css.map",
+    "static/css/main.42407aa0.chunk.css.map": "/vqa-client/static/css/main.42407aa0.chunk.css.map",
+    "static/js/2.589a9620.chunk.js.LICENSE.txt": "/vqa-client/static/js/2.589a9620.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4f7b8a2.js",
+    "static/css/2.e5d32510.chunk.css",
+    "static/js/2.589a9620.chunk.js",
+    "static/css/main.42407aa0.chunk.css",
+    "static/js/main.4680a984.chunk.js"
+  ]
+}
